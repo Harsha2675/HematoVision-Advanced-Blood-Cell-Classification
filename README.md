@@ -1,5 +1,3 @@
-
-
 # 🧬 HematoVision: Advanced Blood Cell Classification Using Transfer Learning
 
 **HematoVision** is a deep learning-powered web application designed to classify microscopic images of blood cells into one of four categories:
@@ -66,8 +64,8 @@ You can run this project easily on your local system. Just follow these steps:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone  https://github.com/pedadasaikrishna/HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning-by-LTVIP2025TMID44712.git
-cd HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning-by-LTVIP2025TMID44712
+git clone https://github.com/Harsha2675/HematoVision-Advanced-Blood-Cell-Classification.git
+cd HematoVision-Advanced-Blood-Cell-Classification
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but recommended)
@@ -101,7 +99,7 @@ Then open your browser and go to:
 
 ---
 
-## 👨‍🔬 Future Enhancements
+## 👨🔬 Future Enhancements
 
 * Integration with mobile camera input
 * Batch image classification
@@ -116,3 +114,6 @@ Thanks to the open-source community for datasets, MobileNetV2 pretrained weights
 
 ---
 
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
